@@ -1,20 +1,20 @@
 <h2 align="center">
-    ──「 AnieXErica Music」──
+    ──「 Anie-Music」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/f20237d3a028a343d595a.jpg">
+  <img src="https://graph.org/file/a5dc9f37c48e48dfa8710.jpg">
 </p>
 
 <p align="center">
-<a href="https://github.com/AbhiModszYT/AnieXEricaMusic/stargazers"><img src="https://img.shields.io/github/stars/AbhiModszYT/AnieXEricaMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/AbhiModszYT/AnieXEricaMusic/network/members"> <img src="https://img.shields.io/github/forks/AbhiModszYT/AnieXEricaMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/AbhiModszYT/AnieXEricaMusic/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/INDIANCODERS-1/Anie-Music/stargazers"><img src="https://img.shields.io/github/stars/INDIANCODERS-1/Anie-Music?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/INDIANCODERS-1/Anie-Music/network/members"> <img src="https://img.shields.io/github/forks/INDIANCODERS-1/Anie-Music?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/INDIANCODERS-1/Anie-Music/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/AbhiModszYT/AnieXEricaMusic/commits/AbhiModszYT"> <img src="https://img.shields.io/github/last-commit/AbhiModszYT/AnieXEricaMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/INDIANCODERS-1/Anie-music/commits/INDIANCODERS-1"> <img src="https://img.shields.io/github/last-commit/INDIANCODERS-1/Anie-Music?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-## Features Of Shizuka And Commands ❤️
+## Features Of ANIE-MUSIC And Commands ❤️
 
 <details>
 <summary><b>ғᴇᴀᴛᴜʀᴇs</b></summary>
@@ -111,13 +111,13 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AbhiModszYT/AnieXEricaMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/INDIANCODERS-1/Anie-Music"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/AbhiModszYT/AnieXEricaMusic/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/INDIANCODERS-1/Anie-Music/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -129,7 +129,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/AbhiModszYT/AnieXEricaMusic && cd AnieXEricaMusic`
+`git clone https://github.com/INDIANCODERS-1/Anie-music && cd Anie-Music`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
@@ -150,11 +150,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://t.me/AM_YTSupport"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/the_ind_coders"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/AbhiModszYT_Return"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/theind_coders"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 # Owner And Credit
@@ -166,21 +166,21 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
    ᴄʀᴇᴅɪᴛs 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [AbhiModszYT](https://telegram.dog/AM_YTBOTT)
-- [ʏᴜᴋᴋɪ](https://github.com/NotReallyShikhar)
-- [ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/TheAnonymous2005)
+- [AbhiModszYT](https://telegram.dog/ITZ_IND_CODER)
+- [Anie](https://github.com/INDIANCODERS-1/anie-music)
+- [INDIAN CODERS](https://github.com/INDIANCODERS-1)
 </details>
 
 </h3>
 
 <p align="center">
-<a href="https://github.com/AbhiModszYT"> <img src="https://img.shields.io/badge/AbhiModszYT-black?style=for-the-badge&logo=github" alt="AbhiModszYT" /> </a>
+<a href="https://github.com/Indiancoders-1"> <img src="https://img.shields.io/badge/AbhiModszYT-black?style=for-the-badge&logo=github" alt="indiancoders-1" /> </a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [INDIAN CODERS](https://github.com/INDIANCODERS-1) ғᴏʀ [Anie ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/INDIANCODERS-1 /anie-music)_ </b>
 
 <h3 align="center">──「 ʀᴇᴘᴏ sᴛᴀᴛs 」──</h3>
-<a href="https://github.com/AbhiModszYT/AnieXEricaMusic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiModszYT&repo=AnieXEricaMusic&theme=chartreuse-dark"></a>
+<a href="https://github.com/INDIANCODERS-1/Anie-Music"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anie-music&repo=Anie-Music&theme=chartreuse-dark"></a>
 
 
 
