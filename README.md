@@ -166,7 +166,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
    ᴄʀᴇᴅɪᴛs 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [AbhiModszYT](https://telegram.dog/ITZ_IND_CODER)
+- [INDIAN CODERS](https://telegram.dog/ITZ_IND_CODER)
 - [Anie](https://github.com/INDIANCODERS-1/anie-music)
 - [INDIAN CODERS](https://github.com/INDIANCODERS-1)
 </details>
@@ -174,7 +174,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://github.com/Indiancoders-1"> <img src="https://img.shields.io/badge/AbhiModszYT-black?style=for-the-badge&logo=github" alt="indiancoders-1" /> </a>
+<a href="https://github.com/Indiancoders-1"> <img src="https://img.shields.io/badge/INDIANCODERS-1-black?style=for-the-badge&logo=github" alt="indiancoders-1" /> </a>
 </p>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [INDIAN CODERS](https://github.com/INDIANCODERS-1) ғᴏʀ [Anie ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/INDIANCODERS-1 /anie-music)_ </b>
