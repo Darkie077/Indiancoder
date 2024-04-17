@@ -177,6 +177,6 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://github.com/Indiancoders-1"> <img src="https://img.shields.io/badge/INDIANCODERS-1-black?style=for-the-badge&logo=github" alt="indiancoders-1" /> </a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [INDIAN CODERS](https://github.com/INDIANCODERS-1) ғᴏʀ [Anie ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/INDIANCODERS-1 /anie-music)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [INDIAN CODERS](https://github.com/INDIANCODERS-1) ғᴏʀ [Anie ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/INDIANCODERS-1 /anie-music)_ </b> -
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
