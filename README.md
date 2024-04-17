@@ -179,9 +179,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [INDIAN CODERS](https://github.com/INDIANCODERS-1) ғᴏʀ [Anie ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/INDIANCODERS-1 /anie-music)_ </b>
 
-<h3 align="center">──「 ʀᴇᴘᴏ sᴛᴀᴛs 」──</h3>
-<a href="https://github.com/Abhimodesyt/AnieXEricaMusic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anie-music&repo=Anie-Music&theme=chartreuse-dark"></a>
-
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
