@@ -1,12 +1,12 @@
 {
-    "name": "ᴀɴɪᴇ x ᴇɪᴄᴀ ᴍᴜꜱɪᴄ ʙᴏᴛ",
+    "name": "anie-music",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/b37803a767b15e939513d.png",
+    "logo": "https://te.legra.ph/file/754e95311eccb48b7aafc.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "ᴀɴɪᴇ",
+    "VenomX",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "24509589",
+        "value": "",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "717cf21d94c4934bcbe1eaa1ad86ae75",
+        "value": "",
         "required": true
       },
       "BOT_TOKEN": {
@@ -33,37 +33,12 @@
         "required": true
       },
       "OWNER_ID": {
-        "description": "The user id of user whom you would like to add as OWNER.from @Sophia_x_MusicBot on Telegram.",
-        "value": "5916859256",
-        "required": true
-      },
-    "OWNER": {
-        "description": "The user id of user whom you would like to add as OWNER.from @Sophia_x_MusicBot on Telegram.",
-        "value": "5916859256",
-        "required": true
-      },
-    "BOTADDLOGS": {
-        "description": "Logger group id add also",
-        "value": "",
-        "required": true
-      },
-     "OWNER_USERNAME": {
-        "description": "Add owner username without @",
-        "value": "New_AMBOT",
-        "required": true
-      },
-     "SUPPORT_CHANNEL": {
-        "description": "Add channel link",
-        "value": "https://t.me/SuperBanSBots",
-        "required": true
-      },
-        "SUPPORT_CHAT": {
-        "description": "Add Chat group & support group Link",
-        "value": "https://t.me/AM_YTSUPPORT",
+        "description": "The user id of user whom you would like to add as OWNER.",
+        "value": "5822700831",
         "required": true
       },
       "STRING_SESSION": {
-        "description": "A Pyrogram String Session from @Sessoin_String_gen_BOT on Telegram.",
+        "description": "A Pyrogram v2 String Session from @Venom_string_robot on Telegram.",
         "value": "",
         "required": true
       },
@@ -75,36 +50,6 @@
       "HEROKU_APP_NAME": {
         "description": "Your heroku app name",
         "value": "",
-        "required": false
-      },
-      "UPSTREAM_REPO": {
-        "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/AbhiModszYT/AnieXEricaMusic",
-        "required": false
-      },
-      "UPSTREAM_BRANCH": {
-        "description": "Upstream Repo's Branch Name",
-        "value": "main",
-        "required": false
-      },
-      "AUTO_LEAVING_ASSISTANT": {
-        "description": "Time after which you're assistant account will leave chats automatically. u want off use False To None Leave auto assis from groups",
-        "value": "True",
-        "required": false
-      },
-      "START_IMG_URL": {
-        "description": "Your Bot Start Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-        "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
-        "required": false
-      },
-      "PING_IMG_URL": {
-        "description": "Your Bot Ping Check Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-        "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
-        "required": false
-      },
-      "STATS_IMG_URL": {
-        "description": "Your Bot Stats Time Pic tgm link from @Sophia_x_MusicBot on Telegram.",
-        "value": "https://telegra.ph/file/b37803a767b15e939513d.png",
         "required": false
       },
       "LOGGER_ID": {
